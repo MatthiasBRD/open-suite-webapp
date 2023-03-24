@@ -1,6 +1,7 @@
 import com.axelor.gradle.tasks.GenerateAosChangelog
 import com.axelor.gradle.tasks.CheckEOLCharsInCsv
 
+
 buildscript {
   ext.repos = {
     mavenCentral() {
